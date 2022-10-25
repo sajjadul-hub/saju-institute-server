@@ -10,11 +10,11 @@ const news=require('./data/news.json');
 app.get('/',(req,res)=>{
     res.send('News APi Running');
 })
-
+//news------------------
 app.get('/news-categories',(req,res)=>{
     res.send(categories);
 })
-
+//category with id--------------------------------
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
     if (id === '08') {
