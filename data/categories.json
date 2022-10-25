@@ -1,34 +1,32 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "C programm",
+      "img":"https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "C++",
+    "img":"https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "java",
+      "img":"https://www.html.it/app/uploads/2017/06/java-1.png"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "PHP",
+      "img":"https://i-softinc.com/wp-content/uploads/2021/06/1-1.jpg"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Python",
+      "img":"https://stackpython.co/media/course/python-programming-basic.png"
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "name": "JavaScript",
+      "img":"https://www.computerhope.com/jargon/j/javascript.png"
     }
   ]
