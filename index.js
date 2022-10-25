@@ -4,7 +4,7 @@ const cors =require('cors');
 const port =process.env.port  || 5000;
 
 app.use(cors());
-
+//Category...................................
 const categories=require('./data/categories.json');
 const news=require('./data/news.json');
 app.get('/',(req,res)=>{
